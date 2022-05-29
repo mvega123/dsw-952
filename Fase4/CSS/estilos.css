@@ -6,13 +6,13 @@
     box-sizing: border-box;
 }
 body{
-    background-color: rgb(138, 200, 224);
+    background-color: rgb(254, 249, 167)
 }
 
 .navegacion{
     width: 1000px;
     margin: 30px auto;
-    background: burlywood;
+    background: #D61C4E;
 }
 
 .navegacion ul{
@@ -27,13 +27,13 @@ body{
 .menu > li > a{
     display: block;
     padding: 10px 50px;
-    color: cadetblue;
+    color: #FEF9A7;
     font-family: Arial, Helvetica, sans-serif;
     text-decoration: none;
 }
 
 .menu li a:hover{
-    color: chartreuse;
+    color: #D61C4E;
     transition: all .3s;
 }
 
@@ -48,7 +48,7 @@ body{
     display: block;
     
     padding: 15px;
-    color: rgb(20, 22, 22);
+    color: rgb(254, 249, 167);
     font-family: Arial, Helvetica, sans-serif;
     text-decoration: none;
 }
@@ -58,15 +58,15 @@ body{
 }
 
 header{
-    background-color: darkgrey;
+    background-color: #396EB0;
 }
 nav{
-    background-color: rgb(209, 228, 228);
+    background-color: rgb(254, 249, 167);
 }
 section{
     float: left;
     width: 70%;
-    background-color: rgb(184, 142, 142);
+    background-color: rgb(254, 249, 167);
 }
 aside{
     float: left;
@@ -76,5 +76,5 @@ article{
     background-color: darkcyan;
 }
 footer{
-    background-color: goldenrod;
+    background-color: #396EB0;
 }
